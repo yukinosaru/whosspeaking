@@ -1,5 +1,5 @@
 # whosspeaking
-Basic timer for timing speakers
+Basic timer for timing speakers see [speakeasy.dkcy.com](http://speakeasy.dkcy.com)
 
 Inspired by [http://arementalkingtoomuch.com/](http://arementalkingtoomuch.com/) and [tweet by Dr Prachi Srivastava] (https://twitter.com/PrachiSrivas/status/1008808589379690496).
 6 timers, each with customisable labels.
